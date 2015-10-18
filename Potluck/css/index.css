@@ -1,0 +1,224 @@
+.version.index /* version checker */
+{
+	color: #00000C;
+	background-color: #7DC169;
+}
+
+.html
+{
+	background-color: #E10F19;
+	background: -webkit-gradient(linear, center top, center bottom, from(#E10F19),color-stop(100%, #FBB03B));
+	background: -webkit-linear-gradient(top,#E10F19 ,#FBB03B 100%);
+	background: linear-gradient(to bottom,#E10F19 ,#FBB03B 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFE10F19, endColorstr=#FFFBB03B, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFE10F19', endColorstr='#FFFBB03B', GradientType=0)";
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 1901px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page::before
+{
+	box-shadow: none;
+	top: 0px;
+	bottom: 0px;
+	width: 960px;
+}
+
+#page_position_content
+{
+	padding-top: 58px;
+	width: 0.01px;
+}
+
+#u96-4
+{
+	z-index: 4;
+	margin-left: 192px;
+}
+
+#u101
+{
+	z-index: 8;
+	height: 4px;
+}
+
+#u101-bw
+{
+	z-index: 8;
+	margin-top: 21px;
+	height: 4px;
+}
+
+#pu122
+{
+	width: 0.01px;
+	margin-left: -104px;
+	margin-top: -2px;
+}
+
+#u122
+{
+	z-index: 2;
+	width: 311px;
+	margin-right: -10000px;
+	margin-top: 372px;
+	left: 848px;
+}
+
+#u103-35
+{
+	z-index: 9;
+	width: 552px;
+	min-height: 324px;
+	margin-right: -10000px;
+	margin-top: 85px;
+	left: 296px;
+}
+
+#u104
+{
+	z-index: 44;
+	height: 4px;
+}
+
+#u104-bw
+{
+	z-index: 44;
+	margin-top: 296px;
+	height: 4px;
+}
+
+#u105
+{
+	z-index: 45;
+	height: 4px;
+}
+
+#u105-bw
+{
+	z-index: 45;
+	margin-top: 646px;
+	height: 4px;
+}
+
+#u106
+{
+	z-index: 46;
+	height: 4px;
+}
+
+#u106-bw
+{
+	z-index: 46;
+	margin-top: 1077px;
+	height: 4px;
+}
+
+#u137
+{
+	z-index: 53;
+	width: 306px;
+	margin-right: -10000px;
+	margin-top: 787px;
+}
+
+#u128
+{
+	z-index: 55;
+	width: 526px;
+	background-color: transparent;
+	opacity: 0.2;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+	filter: alpha(opacity=20);
+	position: relative;
+	margin-right: -10000px;
+	left: 315px;
+}
+
+#pu107
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: 57px;
+}
+
+#u107
+{
+	z-index: 47;
+	min-height: 125px;
+	padding-bottom: 76px;
+}
+
+#u107_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 960px;
+	left: -100px;
+}
+
+#u134-4
+{
+	z-index: 57;
+	width: 227px;
+	min-height: 30px;
+	background-color: transparent;
+	text-align: center;
+	font-weight: bold;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 95px;
+	left: 467px;
+}
+
+#u107-bw
+{
+	z-index: 47;
+	min-height: 125px;
+}
+
+#u108
+{
+	z-index: 48;
+	height: 4px;
+}
+
+#u108-bw
+{
+	z-index: 48;
+	margin-top: 32px;
+	height: 4px;
+}
+
+#u109-4
+{
+	z-index: 49;
+	width: 166px;
+	min-height: 30px;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 502px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

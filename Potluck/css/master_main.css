@@ -1,0 +1,53 @@
+#u96-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u103-5,#u103-9,#u103-16,#u103-23
+{
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+	color: #006837;
+}
+
+#u103-2,#u103-3,#u103-6,#u103-7,#u103-10,#u103-12,#u103-13,#u103-14,#u103-17,#u103-19,#u103-20,#u103-21,#u103-24,#u103-26,#u103-28,#u103-30,#u103-32
+{
+	font-size: 36px;
+	text-align: center;
+	line-height: 43px;
+}
+
+#u122,#u103-35,#u137
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u107
+{
+	background-color: #006837;
+}
+
+#u107_align_to_page
+{
+	position: relative;
+}
+
+#u101,#u104,#u105,#u106,#u108
+{
+	background-color: #000000;
+}
+
+#u109-4
+{
+	background-color: #000000;
+	line-height: 29px;
+	text-align: center;
+	font-size: 24px;
+	color: #E10F19;
+	position: relative;
+}
+

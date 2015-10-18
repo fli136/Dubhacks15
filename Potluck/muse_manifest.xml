@@ -1,0 +1,19 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="Potluck.com" resolutions="1x" timestamp="1445210420505">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_main.css" crc="301863831" ref="index"/>
+    <file name="index.css" crc="209568105" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u96-4.png" crc="388051582" ref="index"/>
+    <file name="1.jpg" crc="175291425" seo="true" ref="index"/>
+    <file name="3.jpg" crc="279719920" seo="true" ref="index"/>
+    <file name="2.jpg" crc="4258070898" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4188194530" seo="true" mt="1445210250420" redirect="true"/>
+</manifest>
